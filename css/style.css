@@ -20,3 +20,22 @@ body{
 .parceiros{
     background-color: #EBDEF0;
 }
+
+h2{
+    text-align: center;
+    padding: 10px;
+}
+
+.servicos{
+    background-color: #F9E79F;
+}
+
+h3{
+    text-align: center;
+    padding: 10px;
+}
+
+p{
+    text-align: justify;
+    font-size: 14px;
+}
