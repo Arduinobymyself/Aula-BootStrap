@@ -39,3 +39,12 @@ p{
     text-align: justify;
     font-size: 14px;
 }
+
+.bg-footer{
+    background-color: #808B96;
+    color: white;
+}
+p.footer{
+    text-align: center;
+    padding: 40px;
+}
